@@ -13,6 +13,7 @@
 		CE4D933024036AB700668919 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D932F24036AB700668919 /* LoginViewController.swift */; };
 		CE4D933224036AE600668919 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D933124036AE600668919 /* FeedViewController.swift */; };
 		CE4D933424037D3C00668919 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D933324037D3C00668919 /* CameraViewController.swift */; };
+		CE4D93362403889F00668919 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4D93352403889F00668919 /* PostCell.swift */; };
 		CEEC5E7424035AE10074B94F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEC5E7324035AE10074B94F /* AppDelegate.swift */; };
 		CEEC5E7924035AE10074B94F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEEC5E7724035AE10074B94F /* Main.storyboard */; };
 		CEEC5E7B24035AE70074B94F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEEC5E7A24035AE70074B94F /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		CE4D932F24036AB700668919 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		CE4D933124036AE600668919 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		CE4D933324037D3C00668919 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		CE4D93352403889F00668919 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		CEEC5E7024035AE10074B94F /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEC5E7324035AE10074B94F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEEC5E7824035AE10074B94F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				CE4D932F24036AB700668919 /* LoginViewController.swift */,
 				CE4D933124036AE600668919 /* FeedViewController.swift */,
 				CE4D933324037D3C00668919 /* CameraViewController.swift */,
+				CE4D93352403889F00668919 /* PostCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -414,6 +417,7 @@
 				CE4D933424037D3C00668919 /* CameraViewController.swift in Sources */,
 				CE4D933224036AE600668919 /* FeedViewController.swift in Sources */,
 				CEEC5E7424035AE10074B94F /* AppDelegate.swift in Sources */,
+				CE4D93362403889F00668919 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
